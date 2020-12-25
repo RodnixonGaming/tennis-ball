@@ -1,2 +1,2 @@
-# tennis-ball
-the best ball ever to be play
+# p5.play-boilerplate
+Boiler plate for p5.play
